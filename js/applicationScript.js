@@ -46,7 +46,8 @@ var init = function() {
   var button = document.getElementById("button_dbf17"); 
  
   button.addEventListener("click", function() {  
-    
+    var input = inputField.value; 
+    console.log(input);
   });
 
 
