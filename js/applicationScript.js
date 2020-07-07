@@ -52,7 +52,7 @@ var init = function() {
  
   console.log("Test addition"); 
   console.log("Test"); 
-  console.log("Tes");
+  console.log("Test");
 
 
 }
