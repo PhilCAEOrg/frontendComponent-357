@@ -50,7 +50,9 @@ var init = function() {
     console.log(input);
   });
  
-  console.log("Test addition");
+  console.log("Test addition"); 
+  console.log("Test"); 
+  console.log("");
 
 
 }
