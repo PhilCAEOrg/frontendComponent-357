@@ -52,7 +52,8 @@ var init = function() {
  
   console.log("Test addition"); 
   console.log("Test"); 
-  console.log("Test");
+  console.log("Test"); 
+  console.log("Te");
 
 
 }
