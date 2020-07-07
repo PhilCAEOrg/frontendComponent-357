@@ -49,7 +49,8 @@ var init = function() {
     var input = inputField.value; 
     console.log(input);
   });
-
+ 
+  console.log("Test addition");
 
 
 }
